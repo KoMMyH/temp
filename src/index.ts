@@ -1,3 +1,1 @@
-import "./style.css";
-
-console.log("asd");
+import "./styles/style.css";
